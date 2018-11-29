@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestButtonClick</string>
+    <string name="bt0">Button 0</string>
+    <string name="bt1">Button 1</string>
+    <string name="bt2">Button 2</string>
+    <string name="bt3">Button 3</string>
+    <string name="bt4">Button 4</string>
+</resources>
